@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Agah Karakuzu</title>
-    <link>https://agahkarakuzu.github.io/authors/</link>
+    <link>/authors/</link>
     <description>Recent content in Authors on Agah Karakuzu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="https://agahkarakuzu.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://agahkarakuzu.github.io/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://agahkarakuzu.github.io/authors/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a PhD candidate at NeuroPoly Lab under the supervision of Dr. Nikola Stikov.&lt;/p&gt;
 &lt;p&gt;My current research focuses on bringing &lt;a href=&#34;https://qmrlab.org&#34;&gt;quantitative MRI (qMRI) applications under one umbrella&lt;/a&gt; through data standardization, vendor-neutral acquisitions, fully transparent &amp;amp; reproducible workflows and community building.&lt;/p&gt;
 &lt;p&gt;My motivation for open science is born from a combination of open-source development &lt;em&gt;(BrainHack, MRathon, OpenMR)&lt;/em&gt; and science communication &lt;em&gt;(MRM Highlights, OHBM Blog, ISMRM&amp;rsquo;s MRPulse)&lt;/em&gt;.&lt;/p&gt;
