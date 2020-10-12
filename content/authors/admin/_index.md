@@ -3,37 +3,40 @@ authors:
 - admin
 bio: ""
 education: ""
-email: "claus.o.wilke@gmail.com"
+email: "agahkarakuzu@gmail.com"
 interests: []
-#- Molecular Evolution
-#- Protein Biophysics
-#- Data Science
+#- Quantitative Magnetic Resonance Imaging
+#- Open-source Software Development
 #- Data Visualization
-name: Claus O. Wilke
+#- Biomechanics
+name: Agah Karakuzu
 organizations:
-- name: "The University of Texas at Austin"
+- name: "Polytechnique Montréal"
   url: ""
-role: "Professor of Integrative Biology"
+role: "PhD Candidate"
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/clauswilke
+  link: https://twitter.com/agahkarakuzu
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Nc8U6E4AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/clauswilke
+  link: https://github.com/agahkarakuzu
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
+I am a PhD candidate at NeuroPoly Lab under the supervision of Dr. Nikola Stikov. 
 
-Claus Wilke is the Jane and Roland Blumberg Centennial Professor in Molecular Evolution at The University of Texas at Austin. He holds a PhD in Theoretical Physics from the University of Bochum in Germany, and he received postdoctoral training in biological physics in the lab of Chris Adami at Caltech. Claus Wilke has published extensively in the areas of computational biology, evolutionary biology, protein biochemistry, and virology. He has also authored several popular R packages used for data visualization, such as cowplot, ggridges, and ggtext, and he is a regular contributor to the package ggplot2.
+My current research focuses on bringing [quantitative MRI (qMRI) applications under one umbrella](https://qmrlab.org) through data standardization, vendor-neutral acquisitions, fully transparent & reproducible workflows and community building.
 
-Opinions expressed on this site are personal and are not meant to represent the official position of The University of Texas at Austin.
+My motivation for open science is born from a combination of open-source development _(BrainHack, MRathon, OpenMR)_ and science communication _(MRM Highlights, OHBM Blog, ISMRM's MRPulse)_.
+
+⛷☕️🎸🎨😸📚🎙➕👨‍💻🧲🧠
