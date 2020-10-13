@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "Blog"
-  url = "#blog"
+  name = "Journal Articles"
+  url = "https://agkarpubs.netlify.app/#/pubs"
   weight = 20
 
 #[[main]]
