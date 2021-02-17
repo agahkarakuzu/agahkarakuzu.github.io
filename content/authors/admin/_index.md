@@ -23,7 +23,7 @@ social:
   link: https://twitter.com/agahkarakuzu
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=Nc8U6E4AAAAJ
+  link: https://scholar.google.com/citations?user=tVvzWVMAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/agahkarakuzu
