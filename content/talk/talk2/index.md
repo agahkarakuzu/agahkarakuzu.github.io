@@ -4,7 +4,7 @@ all_day: false
 authors: []
 date: "2020-06-01T11:35:00"
 date_end: ""
-event: BrainHack School 2020
+event: BrainHack School 2019-2020, QBIN SciComm 2021
 event_url: https://school.brainhackmtl.org/
 featured: false
 image:
@@ -23,4 +23,5 @@ url_code: "https://github.com/agahkarakuzu/datavis_edu"
 url_pdf: ""
 url_slides: "https://zenodo.org/record/3841775#.X44fvpNKhUJ"
 url_video: "https://www.youtube.com/watch?v=FwM_6oZo_2g&feature=youtu.be"
+invited: true
 ---

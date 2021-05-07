@@ -23,3 +23,7 @@
   {{ partial "page_links" (dict "page" $page "is_list" 0) }}
 </div>
 {{ end }}
+
+{{if .Params.invited}}
+<span class="badge badge-dark">Invited</span>
+{{ end }}
