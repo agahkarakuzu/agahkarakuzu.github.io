@@ -23,4 +23,5 @@ url_code: "https://github.com/agahkarakuzu/eda_organized"
 url_pdf: ""
 url_slides: "https://zenodo.org/record/3891498#.X44Q2JNKhUI"
 url_video: "https://www.youtube.com/watch?v=AWfrlKTLkqw"
+invited: true
 ---

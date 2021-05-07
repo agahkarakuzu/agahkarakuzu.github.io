@@ -4,7 +4,7 @@ all_day: false
 authors: []
 date: "2020-06-24T11:35:00"
 date_end: ""
-event: OHBM Open Science Room 2020
+event: "OHBM OSR: Reproducible workflows, Workshop: From acquisition to publication, Workshop: ISMRM Turkish Chapter"
 event_url: https://ohbm.github.io/osr2020/
 featured: false
 image:
@@ -23,4 +23,7 @@ url_code: "https://qmrlab.org"
 url_pdf: ""
 url_slides: "https://zenodo.org/record/3906100#.X44ke5NKhUI"
 url_video: "https://www.youtube.com/watch?v=dSOQgyuL51U"
+invited: true
+times: 3
+keynote: true
 ---

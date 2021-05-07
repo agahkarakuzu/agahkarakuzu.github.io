@@ -33,7 +33,15 @@
     <h3 class="article-title mb-0 mt-0" itemprop="name">
       <a href="{{ $item.RelPermalink }}" itemprop="url">{{ $item.Title }}</a>
     </h3>
-
+    {{if .Params.keynote}}
+    <span class="badge badge-danger">Keynote</span>
+    {{ end }}
+    {{if .Params.invited}}
+    <span class="badge badge-dark">Invited</span>
+    {{ end }}
+    {{if .Params.times}}
+    <span class="badge badge-warning">x{{.Params.times}}</span>
+    {{ end }}
     {{ with $summary }}
     <div class="article-style" itemprop="articleBody">
       {{ . | truncate 135 }}

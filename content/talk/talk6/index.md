@@ -20,7 +20,7 @@ summary: ""
 tags: []
 title: An interactive meta-analysis of MRI biomarkers of myelin
 url_code: "https://neurolibre.github.io/myelin-meta-analysis/intro.html"
-url_pdf: "https://www.biorxiv.org/content/10.1101/2020.07.13.200972v4"
+url_pdf: "https://elifesciences.org/articles/61523"
 url_slides: "https://zenodo.org/record/4017810#.X44vJ5NKhUI"
 url_video: ""
 ---

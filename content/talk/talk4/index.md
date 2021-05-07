@@ -23,4 +23,5 @@ url_code: "https://hub.docker.com/u/qmrlab"
 url_pdf: ""
 url_slides: "https://zenodo.org/record/3625531#.X44n8ZNKhUI"
 url_video: ""
+invited: true
 ---

@@ -1,5 +1,5 @@
 ---
-abstract: My presentation covering the core concepts of the On Modeling article by Dimitry Novikov, Sune Jespersen and Valerij Kiselev. This [article](https://pubmed.ncbi.nlm.nih.gov/29493816/) was published in MRM in 2018, formulating the "slow progress" problem in microstructural MRI and providing a framework of thinking to address them. This presentation was a part of an [MRM Highlights](https://blog.ismrm.org/category/highlights/) panel carried out with the authors. 
+abstract: A special MRM Highlight feature that was a roundtable discussion between MRM Highlights contributor Agah Karakuzu and the authors of an MRM review paper entitled “On modeling”, by Dmitry Novikov from the New York University School of Medicine, Valerij Kiselev from the University Medical Center Freiburg in Germany, and Sune Jespersen from Aarhus University in Denmark.
 all_day: false
 authors: []
 date: "2021-05-22T15:30:00"
@@ -11,7 +11,7 @@ image:
   caption: ""
   focal_point: Right
 links:
-location: Montreal, Canada
+location: Virtual
 math: true
 projects: []
 publishDate: "2020-10-19T00:00:00Z"
@@ -22,5 +22,5 @@ title: On Modeling with Dimitri Novikov, Valerij Kiselev and Sune Jespersen
 url_code: ""
 url_pdf: "https://pubmed.ncbi.nlm.nih.gov/29493816/"
 url_slides: "https://zenodo.org/record/4077495#.X44sj5NKhUI"
-url_video: "url_video: "https://www.youtube.com/watch?v=FwM_6oZo_2g&feature=youtu.be""
+url_video: "https://www.youtube.com/watch?v=FwM_6oZo_2g&feature=youtu.be"
 ---
