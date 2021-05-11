@@ -22,5 +22,5 @@ title: On Modeling with Dimitri Novikov, Valerij Kiselev and Sune Jespersen
 url_code: ""
 url_pdf: "https://pubmed.ncbi.nlm.nih.gov/29493816/"
 url_slides: "https://zenodo.org/record/4077495#.X44sj5NKhUI"
-url_video: "https://www.youtube.com/watch?v=FwM_6oZo_2g&feature=youtu.be"
+url_video: "https://youtu.be/T7OYwRXHtCQ"
 ---
