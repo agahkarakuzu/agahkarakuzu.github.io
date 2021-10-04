@@ -19,7 +19,12 @@
 #  weight = 30
 
 [[main]]
-  name = "Projects"
+  name = "Recognitions"
+  url = "#blog"
+  weight = 30
+
+[[main]]
+  name = "SciComm"
   url = "#projects"
   weight = 40
 
