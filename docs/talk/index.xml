@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selected Talks on Agah Karakuzu</title>
+    <link>/talk/</link>
+    <description>Recent content in Selected Talks on Agah Karakuzu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 May 2021 15:30:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On Modeling with Dimitri Novikov, Valerij Kiselev and Sune Jespersen</title>
+      <link>/talk/talk5/</link>
+      <pubDate>Sat, 22 May 2021 15:30:00 +0000</pubDate>
+      
+      <guid>/talk/talk5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific computing with Python: From acoustic dissonance to magnetic resonance</title>
+      <link>/talk/talk8/</link>
+      <pubDate>Mon, 10 May 2021 15:30:00 +0000</pubDate>
+      
+      <guid>/talk/talk8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive plots and the spectrum of data visualization</title>
+      <link>/talk/talk2/</link>
+      <pubDate>Sat, 01 May 2021 11:35:00 +0000</pubDate>
+      
+      <guid>/talk/talk2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communicating Science Openly with Nikola Stikov</title>
+      <link>/talk/talk9/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/talk9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeuroLibre: A sprout of living publications with Elizabeth DuPre</title>
+      <link>/talk/talk10/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/talk10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BrainHack Proceedings</title>
+      <link>/talk/talk11/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/talk11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qMRI-BIDS: A BIDS extension for quantitative MRI</title>
+      <link>/talk/talk12/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/talk12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transparent workflows - From scanner to publication</title>
+      <link>/talk/talk3/</link>
+      <pubDate>Wed, 24 Jun 2020 11:35:00 +0000</pubDate>
+      
+      <guid>/talk/talk3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Divide and Conquer m-scripts</title>
+      <link>/talk/ohbm_brainhack_2020/</link>
+      <pubDate>Wed, 17 Jun 2020 11:35:00 +0000</pubDate>
+      
+      <guid>/talk/ohbm_brainhack_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An interactive meta-analysis of MRI biomarkers of myelin</title>
+      <link>/talk/talk6/</link>
+      <pubDate>Wed, 22 Jan 2020 15:30:00 +0000</pubDate>
+      
+      <guid>/talk/talk6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker for MRI scientists</title>
+      <link>/talk/talk4/</link>
+      <pubDate>Wed, 22 Jan 2020 15:30:00 +0000</pubDate>
+      
+      <guid>/talk/talk4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker containers made fun - Let it run!</title>
+      <link>/talk/talk7/</link>
+      <pubDate>Tue, 23 Apr 2019 12:00:00 +0000</pubDate>
+      
+      <guid>/talk/talk7/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

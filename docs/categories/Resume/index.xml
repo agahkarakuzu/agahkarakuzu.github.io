@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resume on Agah Karakuzu</title>
+    <link>/categories/Resume/</link>
+    <description>Recent content in Resume on Agah Karakuzu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Aug 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/categories/Resume/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>List of SciComm contributions</title>
+      <link>/project/recognitions/</link>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/recognitions/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;div class=&#34;grid-container&#34;&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color: blue;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px yellow;&#34;&gt; &lt;a style=&#34;color:aliceblue;margin-left: 2px;&#34; href=&#34;https://blog.ismrm.org/2021/01/22/qa-with-martin-wilson/&#34; target=&#34;_blank&#34;&gt; 🎙 Q&amp;A with Martin Wilson &lt;/a&gt; &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color: navy;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px yellow;&#34;&gt; &lt;a style=&#34;color:aliceblue;margin-left: 2px;&#34; href=&#34;https://blog.ismrm.org/2020/03/20/qa-with-shaihan-malik-and-daniel-west/?fbclid=IwAR2mviaISearEA2uwRnPRsqYa2L2ppR6Bn_bol4btr9UrqkCqFug3XmnU5I&#34; target=&#34;_blank&#34;&gt; 🎙 Q&amp;A with Shaihan Malik and Daniel West &lt;/a&gt; &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:steelblue ;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px yellow;&#34;&gt; &lt;a style=&#34;color:aliceblue;margin-left: 2px;&#34; href=&#34;https://www.ismrm.org/qa-with-davide-piccini-and-matthias-stuber/&#34; target=&#34;_blank&#34;&gt; 🎙 Q&amp;A with Davide Piccini and Matthias Stuber &lt;/a&gt; &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color: navy;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px yellow;&#34;&gt; &lt;a style=&#34;color:aliceblue;margin-left: 2px;&#34; href=&#34;https://blog.ismrm.org/2020/05/29/qa-with-cristoffer-cordes-and-matthias-gunther/&#34; target=&#34;_blank&#34;&gt; 🎙 Q&amp;A with Cristoffer Cordes and Matthias Gunther &lt;/a&gt; &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:dodgerblue;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px yellow;&#34;&gt; &lt;a style=&#34;color:aliceblue;margin-left: 2px;&#34; href=&#34;https://blog.ismrm.org/2019/02/22/qa-with-andreas-hauptmann-and-vivek-muthurangu/&#34; target=&#34;_blank&#34;&gt; 🎙 Q&amp;A with Andreas Hauptmann and Vivek Muthurangu &lt;/a&gt; &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:royalblue;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px yellow;&#34;&gt; &lt;a style=&#34;color:aliceblue;margin-left: 2px;&#34; href=&#34;https://blog.ismrm.org/2019/10/18/qa-with-russell-lagore-and-kamil-ugurbil/&#34; target=&#34;_blank&#34;&gt; 🎙 Q&amp;A with Russell Lagore and Kamil Ugurbil &lt;/a&gt; &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:darkblue;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px yellow;&#34;&gt; &lt;a style=&#34;color:aliceblue;margin-left: 2px;&#34; href=&#34;https://blog.ismrm.org/2019/01/11/qa-with-yoojin-lee-and-zoltan-nagy/&#34; target=&#34;_blank&#34;&gt; 🎙 Q&amp;A with Yoojin Lee and Zoltan Nagy &lt;/a&gt; &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:skyblue;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px black;&#34;&gt; &lt;a style=&#34;color:navy;margin-left: 2px;&#34; href=&#34;https://www.youtube.com/watch?v=T7OYwRXHtCQ&#34; target=&#34;_blank&#34;&gt; 🎥 On modeling with Dimitri Novikov, Sune Jespersen &amp; Valerij Kiselev &lt;/a&gt; &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:mistyrose;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px black;&#34;&gt; &lt;a style=&#34;color:black;margin-left: 2px;&#34; href=&#34;https://www.ohbmbrainmappingblog.com/blog/ohbm-hackathon-2017-a-first-timers-perspective&#34; target=&#34;_blank&#34;&gt; 📝  OHBM Hackathon 2017: A first timer&#39;s perspective &lt;/a&gt; &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:mistyrose;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px black;&#34;&gt; &lt;a style=&#34;color:black;margin-left: 2px;&#34; href=&#34;https://www.youtube.com/watch?v=smAbHiOzzcs&#34; target=&#34;_blank&#34;&gt; 🎥  qMRI-BIDS with Tibor Auer &amp; Gilles Hollander &lt;/a&gt; &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:mistyrose;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px black;&#34;&gt; &lt;a style=&#34;color:black;margin-left: 2px;&#34; href=&#34;https://open.spotify.com/episode/19RPZ1OwCosMCVr4AVB7eu?si=c93fd1c6a0bc4bbb&#34; target=&#34;_blank&#34;&gt; 🎧 Podcast: BEP001 merge debrief &lt;/a&gt; &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:crimson;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px white;&#34;&gt; &lt;a style=&#34;color:white;margin-left: 2px;&#34; href=&#34;https://qmrlab.org/2020/06/16/matlab-ci.html&#34; target=&#34;_blank&#34;&gt; ☂ Continuous integration and delivery in Matlab &amp; Octave  &lt;/a&gt; &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:rgb(182, 7, 42);margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px white;&#34;&gt; &lt;a style=&#34;color:white;margin-left: 2px;&#34; href=&#34;https://qmrlab.org/jekyll/2018/10/02/hello-world.html&#34; target=&#34;_blank&#34;&gt; ☂ Quantitative MRI: An illustrative introduction  &lt;/a&gt; &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:rgba(196, 2, 41, 0.897);margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px white;&#34;&gt; &lt;a style=&#34;color:white;margin-left: 2px;&#34; href=&#34;https://qmrlab.org/jekyll/2018/11/27/the-problem.html&#34; target=&#34;_blank&#34;&gt; ☂ Quantitative MRI: The problem  &lt;/a&gt; &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:rgba(165, 9, 40, 0.849);margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px white;&#34;&gt; &lt;a style=&#34;color:white;margin-left: 2px;&#34; href=&#34;https://qmrlab.org/jekyll/2018/10/02/magnetic_moments.html&#34; target=&#34;_blank&#34;&gt; ☂ Every MR image is a symphony, ever quantitative map is an instrument &lt;/a&gt; &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scholarships and awards</title>
+      <link>/blog/2021/08/18/recognitions/</link>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2021/08/18/recognitions/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;div class=&#34;grid-container&#34;&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:thistle;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;🥈 2021 ISMRM Innovation in MRI Education &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color: aliceblue;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;🥈 2021 ISMRM Reproducible Research Study Research Award&lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:sandybrown;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;💲 2020 ISMRM Research Exchange Grant (Stanford University) &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color: aliceblue;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;🥈 2019 ISMRM Quantitative MRI Study Group Research Award &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color: salmon;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;💲 2019 Canadian Open Neuroscience Platform Scholarship (2 years) &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:mistyrose;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;🎖 2018 ISMRM Magnetic Moments People&#39;s Choice Award &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color: salmon;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;💲 2018 TransMedTech Institute, Research Excellence Scholarship (3 years)&lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color: aliceblue;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;🥇 2016 Prof. Zeki Korkusuz Biomechanics Research Award &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
