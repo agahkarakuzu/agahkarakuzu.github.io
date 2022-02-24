@@ -24,6 +24,7 @@
 
 
 &lt;div class=&#34;grid-container&#34;&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:salmon;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;💲 2022 TransMedTech postdoctoral fellowship (2 years) &lt;/div&gt;
     &lt;div class=&#34;grid-item&#34; style=&#34;background-color:thistle;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;🥈 2021 ISMRM Innovation in MRI Education &lt;/div&gt;
     &lt;div class=&#34;grid-item&#34; style=&#34;background-color: aliceblue;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;🥈 2021 ISMRM Reproducible Research Study Research Award&lt;/div&gt;
     &lt;div class=&#34;grid-item&#34; style=&#34;background-color:sandybrown;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;💲 2020 ISMRM Research Exchange Grant (Stanford University) &lt;/div&gt;
