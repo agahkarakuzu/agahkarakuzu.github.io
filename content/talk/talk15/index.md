@@ -18,7 +18,7 @@ publishDate: "2022-06-08T00:00:00Z"
 slides: ""
 summary: ""
 tags: []
-title: "Multicenter reproducibility of quantitative MRI using vendor-neutral sequences"
+title: "Towards comparable MRI: The role of open-source software and community data standards"
 url_code: ""
 url_video: ""
 ---
