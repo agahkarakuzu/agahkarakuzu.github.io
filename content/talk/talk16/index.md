@@ -15,7 +15,6 @@ location: London, UK
 math: true
 projects: []
 publishDate: "2022-05-08T00:00:00Z"
-slides: "https://qmrlab.org/VENUS"
 summary: ""
 tags: []
 title: "Vendor-neutral sequences (VENUS) improve multicenter reproducibility of quantitative MRI"
