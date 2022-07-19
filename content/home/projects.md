@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "SciComm"
-subtitle = ""
+subtitle = "7 Q&A | 4 Blog posts | 2 panels | 1 Podcast"
 
 [content]
   # Page type to display. E.g. project.
