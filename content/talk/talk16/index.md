@@ -19,6 +19,7 @@ slides: "https://qmrlab.org/VENUS"
 summary: ""
 tags: []
 title: "Vendor-neutral sequences (VENUS) improve multicenter reproducibility of quantitative MRI"
+url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.29292"
 url_code: "https://qmrlab.org/VENUS"
-url_video: ""
+url_slides: "https://doi.org/10.5281/zenodo.6860877"
 ---
