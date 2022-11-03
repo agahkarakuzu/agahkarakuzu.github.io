@@ -24,6 +24,7 @@
 
 
 &lt;div class=&#34;grid-container&#34;&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:salmon;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;💲 2022 Neuro-Irv and Helga Cooper Foundation Open Science Prize &lt;/div&gt;
     &lt;div class=&#34;grid-item&#34; style=&#34;background-color:sandybrown;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;💲 2022 Québec Bio-imaging Network Open Science Award &lt;/div&gt;
     &lt;div class=&#34;grid-item&#34; style=&#34;background-color:aliceblue;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt; 🎖 2022 ISMRM Summa Cum Laude &lt;/div&gt;
     &lt;div class=&#34;grid-item&#34; style=&#34;background-color:aliceblue;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt; 🥇 2022 ISMRM Reproducible Research SG Oral Presentation Award (1st)&lt;/div&gt;
