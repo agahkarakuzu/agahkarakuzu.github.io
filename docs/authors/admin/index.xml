@@ -56,20 +56,25 @@
 
 
 &lt;div class=&#34;grid-container&#34;&gt;
-    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:salmon;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;💲 2022 Neuro-Irv and Helga Cooper Foundation Open Science Prize &lt;/div&gt;
-    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:sandybrown;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;💲 2022 Québec Bio-imaging Network Open Science Award &lt;/div&gt;
-    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:aliceblue;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt; 🎖 2022 ISMRM Summa Cum Laude &lt;/div&gt;
-    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:aliceblue;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt; 🥇 2022 ISMRM Reproducible Research SG Oral Presentation Award (1st)&lt;/div&gt;
-    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:aliceblue;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt; 🥇 2022 ISMRM White Matter SG Research Award (1st) &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:gold;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt; 🏅 2023 ISMRM Junior Fellow &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:skyblue;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt; 🦈 2023 ISMRM Shark Tank Runner-up &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:rgb(191, 191, 247);margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt; 🎖 2023 ISMRM Quantitative MRI SG - Best Open-Source Toolbox Award &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:limegreen;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;📕 2023 Polytechnique Montréal- Prix de la meilleure thèse &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:salmon;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;💲 2023 UNIQUE Excellence Scholarship &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:cyan;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;🎖 2022 Neuro-Irv and Helga Cooper Foundation Open Science Prize &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:cyan;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;🎖 2022 Québec Bio-imaging Network Open Science Award &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:rgb(191, 191, 247);margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt; 🎖 2022 ISMRM Summa Cum Laude &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:rgb(191, 191, 247);margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt; 🥇 2022 ISMRM Reproducible Research SG Oral Presentation Award (1st)&lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:rgb(191, 191, 247);margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt; 🥇 2022 ISMRM White Matter SG Research Award (1st) &lt;/div&gt;
     &lt;div class=&#34;grid-item&#34; style=&#34;background-color:salmon;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;💲 2022 TransMedTech postdoctoral fellowship (2 years) &lt;/div&gt;
     &lt;div class=&#34;grid-item&#34; style=&#34;background-color:thistle;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;🥈 2021 ISMRM Innovation in MRI Education &lt;/div&gt;
-    &lt;div class=&#34;grid-item&#34; style=&#34;background-color: aliceblue;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;🥈 2021 ISMRM Reproducible Research SG Research Award (2nd)&lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color: rgb(191, 191, 247);margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;🥈 2021 ISMRM Reproducible Research SG Research Award (2nd)&lt;/div&gt;
     &lt;div class=&#34;grid-item&#34; style=&#34;background-color:sandybrown;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;💲 2020 ISMRM Research Exchange Grant (Stanford University) &lt;/div&gt;
-    &lt;div class=&#34;grid-item&#34; style=&#34;background-color: aliceblue;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;🥈 2019 ISMRM Quantitative MRI SG Research Award (2nd) &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color: rgb(191, 191, 247);margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;🥈 2019 ISMRM Quantitative MRI SG Research Award (2nd) &lt;/div&gt;
     &lt;div class=&#34;grid-item&#34; style=&#34;background-color: salmon;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;💲 2019 Canadian Open Neuroscience Platform Scholarship (2 years) &lt;/div&gt;
     &lt;div class=&#34;grid-item&#34; style=&#34;background-color:mistyrose;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;🎖 2018 ISMRM Magnetic Moments People&#39;s Choice Award &lt;/div&gt;
     &lt;div class=&#34;grid-item&#34; style=&#34;background-color: salmon;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;💲 2018 TransMedTech Institute, Research Excellence Scholarship (3 years)&lt;/div&gt;
-    &lt;div class=&#34;grid-item&#34; style=&#34;background-color: aliceblue;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;🥇 2016 Prof. Zeki Korkusuz Biomechanics Research Award &lt;/div&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color: rgb(191, 191, 247);margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt;🥇 2016 Prof. Zeki Korkusuz Biomechanics Research Award &lt;/div&gt;
 &lt;/div&gt;
 </description>
     </item>
