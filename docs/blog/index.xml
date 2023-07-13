@@ -24,6 +24,7 @@
 
 
 &lt;div class=&#34;grid-container&#34;&gt;
+    &lt;div class=&#34;grid-item&#34; style=&#34;background-color:rgb(18, 141, 207);margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt; 🏆 2023 Bogazici University BME Prof. Necmi Tanyolac Award  &lt;/div&gt;
     &lt;div class=&#34;grid-item&#34; style=&#34;background-color:gold;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt; 🏅 2023 ISMRM Junior Fellow &lt;/div&gt;
     &lt;div class=&#34;grid-item&#34; style=&#34;background-color:skyblue;margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt; 🦈 2023 ISMRM Shark Tank Runner-up &lt;/div&gt;
     &lt;div class=&#34;grid-item&#34; style=&#34;background-color:rgb(191, 191, 247);margin-bottom: 20px;border-radius: 5px;box-shadow:2px 2px 2px 0px darkgray;&#34;&gt; 🎖 2023 ISMRM Quantitative MRI SG - Best Open-Source Toolbox Award &lt;/div&gt;
