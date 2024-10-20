@@ -4,23 +4,19 @@ authors:
 bio: ""
 education: ""
 email: "agahkarakuzu@gmail.com"
-interests: []
-#- Quantitative Magnetic Resonance Imaging
-#- Open-source Software Development
-#- Data Visualization
-#- Biomechanics
+interests: ['test']
 name: Agah Karakuzu
 organizations:
 - name: "Polytechnique Montréal"
   url: ""
-role: "PhD"
+role: "Biomedical Engineer, PhD"
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
+- icon: x-twitter
   icon_pack: fab
-  link: https://twitter.com/agahkarakuzu
+  link: https://x.com/agahkarakuzu
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=tVvzWVMAAAAJ&hl=en&oi=ao
