@@ -4,7 +4,6 @@ authors:
 bio: ""
 education: ""
 email: "agahkarakuzu@gmail.com"
-interests: ['test']
 name: Agah Karakuzu
 organizations:
 - name: "Polytechnique Montréal"
@@ -29,7 +28,19 @@ user_groups:
 - Visitors
 ---
 
-![](https://img.shields.io/badge/MRI%20Physics-8A2BE2) ![](https://img.shields.io/badge/Medical%20Imaging-33efff) ![](https://img.shields.io/badge/qMRI%20Metrology-e20c4e) ![](https://img.shields.io/badge/Open–source%20Software-ff5d33) ![](https://img.shields.io/badge/Data%20Standards-3389ff) ![](https://img.shields.io/badge/Reproducible%20Science-10c34e) ![](https://img.shields.io/badge/Workflows-c31084) ![](https://img.shields.io/badge/Biomechanics-cfe20c)
+<div style="display: flex; flex-wrap: nowrap; gap: 4px;">
+  <img src="https://img.shields.io/badge/MRI%20Physics-8A2BE2" />
+  <img src="https://img.shields.io/badge/Medical%20Imaging-33efff" />
+  <img src="https://img.shields.io/badge/qMRI%20Metrology-e20c4e" />
+  <img src="https://img.shields.io/badge/Open–source%20Software-ff5d33" />
+</div>
+<div style="display: flex; flex-wrap: nowrap; gap: 4px;margin-top: 4px;margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/Data%20Standards-3389ff" />
+  <img src="https://img.shields.io/badge/Reproducible%20Science-10c34e" />
+  <img src="https://img.shields.io/badge/Workflows-c31084" />
+  <img src="https://img.shields.io/badge/Biomechanics-cfe20c" />
+</div>
+
 
 I am a Postdoctoral Research Associate at [NeuroPoly Lab](https://neuro.polymtl.ca) at [Polytechnique Montreal](https://www.polymtl.ca/) and a Junior Fellow of the [ISMRM](https://ismrm.org). I have a background in MRI physics, software development, biomedical applications of signal theory, and musculoskeletal biomechanics. 
 
@@ -56,7 +67,7 @@ I have experience developing vendor-neutral sequences using both [RTHawk](https:
 **⭐️ Significance** _First empirical evidence supporting the use of vendor-neutral acquisitions to reduce measurement variability across scanners from different vendors._
 
 <details>
-      <summary> :octocat: GitHub Repositories</summary>
+      <summary> GitHub Repositories</summary>
       <ul>
           <li>
               <img src="https://img.shields.io/badge/-e20c4e?&logo=javascript&logoColor=white" alt="JavaScript logo">
@@ -110,7 +121,7 @@ To address this challenge, I developed [qMRLab](https://qmrlab.org), an open-sou
 **⭐️ Significance:** The most popular qMRI toolbox on GitHub, with 157 stargazers, standardizing over 24 qMRI methods across 8 different categories. 
 
 <details>
-      <summary> :octocat: GitHub Repositories</summary>
+      <summary> GitHub Repositories</summary>
       <ul>
           <li>
               <img src="https://img.shields.io/badge/-ff5d33?&logo=octave&logoColor=white" alt="JavaScript logo">

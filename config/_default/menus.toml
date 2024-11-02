@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Journal Articles"
-  url = "https://agkarpubs.netlify.app/#/pubs"
+  url = "https://papers.agah.dev"
   weight = 20
 
 #[[main]]
