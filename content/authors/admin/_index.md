@@ -2,7 +2,6 @@
 authors:
 - admin
 bio: ""
-education: ""
 email: "agahkarakuzu@gmail.com"
 name: Agah Karakuzu
 organizations:
@@ -49,7 +48,7 @@ My current research focuses on developing end-to-end measurement workflows for a
 This rigorous aim necessitates addressing the issue of reproducibility through a layered process, with each following research theme contributing to a comprehensive solution.
 
 <details>
-  <summary>1. <b>Hardware Integration - Standardized MRI Acquisitions</b></summary>
+  <summary>1. <b>Hardware Integration - Vendor-neutral pulse sequences</b></summary>
 
 Multicenter MRI data becomes vulnerable to overfitting when the variability caused by differences between scanners is captured by (deep learning, biophysical, or signal representation) models.
 
@@ -59,6 +58,10 @@ Multicenter MRI data becomes vulnerable to overfitting when the variability caus
 </details>
 
 Vendor-neutral pulse sequence development is an emerging open-source approach that offers an alternative to relying on proprietary vendor-native sequences and acquisition controllers. I am interested in applying this approach to standardize acquisitions for various MRI applications (primarily qMRI) with the goal of minimizing non-biological variability at the signal source across scanners from different vendors (e.g., `Siemens`, `GE`, `Philips`, and `Canon`).
+
+<center>
+  <img src="https://qmrlab.org/VENUS/_images/banner.jpg" alt="EMFT" style="width: 50%; height: auto;">
+</center>
 
 I have experience developing vendor-neutral sequences using both [RTHawk](https://vista.ai/products/research-rthawk/) (`JavaScript`, `C++`) and [Pulseq](https://pulseq.github.io) (`MATLAB`, `Python`) platforms.
 
@@ -111,8 +114,14 @@ Whether based on MRI signal representations (e.g., Bloch equation that governs a
   <summary>See further context</summary>
   <i>Analytical variability encompasses differences in i) algorithms, ii) software, iii) software versions, and iv) the computational environments in which the software is executed. Such variability can lead to discrepancies between quantitative parameters that are intended to be identical. This underscores the need for a community-driven, collaborative codebase that facilitates the integration of new tools and enables systematic comparisons.
 
+
 In addition to this variability, degeneracies in parameter estimation must be well understood within the context of the specific qMRI experiment. To address this, simulations and real-world applications should be able to use the same models to assess the accuracy and robustness of parameter estimation, ensuring consistency across different studies and improving the reproducibility of qMRI results.</i>
 </details>
+
+  <center>
+    <img src="https://www.researchgate.net/profile/Agah-Karakuzu/publication/345922515/figure/fig1/AS:962163275468800@1606409009008/qMRLab-is-an-open-source-software-for-quantitative-MRI-analysis-It-provides-a-myriad-of.ppm" alt="EMFT" style="width: 50%; height: auto;">
+  </center>
+<br>
 
 To address this challenge, I developed [qMRLab](https://qmrlab.org), an open-source software package offering a comprehensive suite of qMRI methods for data fitting, simulation, and protocol optimization. qMRLab consolidates diverse qMRI implementations into a single platform, enhancing accessibility through extensive documentation, online executable notebooks, a user-friendly graphical interface, interactive tutorials, and informative blog posts.
 
@@ -163,21 +172,83 @@ These workflows, written in DSL2, are designed so that each step producing a der
 </details>
        
 <details>
-  <summary><b>4. Interoperability - An International qMRI Data Standard</b></summary>
+  <summary>4. <b>Interoperability - An International qMRI Data Standard</b></summary>
 
-I am the lead developer of https://neurolibre.org, an open-source platform for publishing reproducible preprints written in [MyST Markdown](https://mystmd.org/) and [Jupyter Book](https://jupyterbook.org/en/stable/intro.html). It is quite an involved project which helped me gain development experience with the following tools: 
-* Kubernetes on baremetal (to host BinderHub)
-* Ruby on Rails (OpenJournals editorial manager) 
-* OpenStack & OpenNebula
-* Terraform
-* Flask/Celery/NGINX based full-stack server
-* GitHub actions development
-* Academic publishing workflows  
+To enhance data accessibility, promote large-scale collaborations, and accelerate progress in any application that could benefit from qMRI, I led the development of [qMRI-BIDS](https://bids-specification.readthedocs.io/en/stable/), collaborating with over 30 researchers worldwide. The initial version of this BIDS extension standardized the units, metadata, and naming conventions of 18 parametric maps, and since then, other researchers have actively contributed data descriptions for new qMRI methods. This collaborative effort establishes qMRI-BIDS as a common ground for achieving interoperability in qMRI, enabling seamless integration and comparison of data across diverse studies and platforms.
 
+qMRI-BIDS has unified access to thousands of datasets through platforms such as Zenodo, the Open Science Framework, and OpenNeuro. 
+
+Additionally, it has inspired enhancements to open-source data converters, such as [ezBIDS](https://brainlife.io/ezbids/), which now support converting DICOM images generated by various vendors according to the qMRI-BIDS specifications.
+
+By offering free and standardized access to these datasets, qMRI-BIDS has transformed data sharing practices and promoted equity in the field, enabling researchers worldwide to benefit from valuable resources, regardless of their local infrastructure. 
+
+#### [🔗](https://www.nature.com/articles/s41597-022-01571-4) Relevant article in Scientific Data
 
 </details>
 <br>
 
-To extend the scope of transparency from scanner to publication, I am leading the development of [NeuroLibre](https://neurolibre.org), an open-source publication platform that offers reproducibility as a service with cutting-edge authoring tools and live compute.
+As the lead developer of [NeuroLibre](https://neurolibre.org), I've architected and implemented a complex distributed system that handles reproducible scientific computing at scale. 
+
+It is the first open-source platform to offer reproducibility as a service for academic publications by enabling articles to integrate and reuse each other's code and data. This creates an innovative paradigm for researchers to build upon one another's work (e.g., [paperception](https://agah.dev/paperception)). 
+
+<details>
+  <summary><b>Details of the NeuroLibre tech stack</b></summary>
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li style="margin-bottom: 15px;">
+    <strong>Container Orchestration:</strong> Designed and managed a Kubernetes cluster on bare metal to power our BinderHub deployment
+  </li>
+  <li style="margin-bottom: 15px;">
+    <strong>Cloud Infrastructure:</strong> Implemented multi-cloud architecture using OpenStack & OpenNebula with Terraform for infrastructure as code
+  </li>
+  <li style="margin-bottom: 15px;">
+    <strong>Web Development:</strong> Built full-stack applications using:
+    <ul style="list-style-type: none; padding-left: 20px; margin-top: 5px;">
+      <li>Ruby on Rails for our editorial management system</li>
+      <li>Flask/Celery/NGINX stack for high-performance API services</li>
+      <li>Modern CI/CD practices with extensive GitHub Actions workflows</li>
+    </ul>
+  </li>
+  <li style="margin-bottom: 15px;">
+    <strong>DevOps:</strong> Established monitoring, logging, and automated deployment pipelines
+  </li>
+  <li style="margin-bottom: 15px;">
+    <strong>System Design:</strong> Architected scalable solutions for compute-intensive scientific workloads
+  </li>
+</ul>
+
+</details> 
+<br>
+
+I hold a second PhD in Biomedical Engineering from [Bogazici University](https://www.boun.edu.tr/en), where I developed novel MRI methods for the assessment of muscle structure and function, in-vivo (thesis [here](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=WBc656i315e2eV6-EZV1oieEoX22ihUylnjE_lEdgA5ILgVkGM2WFCTni-MKgmzM)). 
+
+<details>
+  <summary><b>Research from my second PhD</b></summary>
+  
+  Epimuscular myofascial force transmission ([EMFT](https://pubmed.ncbi.nlm.nih.gov/20577061/)) is a novel theory on how muscles transmit force through inter- and extramuscular structures, in addition to the myotendinous structures.
+
+  In-vivo studies on this theory is challenging due to the lack of non-invasive methods that can encode mechanical information at different joint angles or during muscle contraction. 
+
+  To address this challenge, I developed a novel MRI method that combines diffusion tensor imaging (DTI) tractography with non-rigid registration of high-resolution anatomical images to quantify strain in the muscle fiber direction. One of the key findings from this work is heteregeneous strain distribution in the muscle fiber direction, which is a hallmark of EMFT effects, as well as an important determinant of muscle range of active force production.
+
+<center>
+  <img src="https://ars.els-cdn.com/content/image/1-s2.0-S1751616123000346-ga1_lrg.jpg" alt="EMFT" style="width: 50%; height: auto;">
+</center>
+  
+  Such comprehensive understanding of in-vivo mechanical interactions is crucial for the development of novel rehabilitation protocols and assistive devices. This knowledge has important implications both in sports science for optimizing athletic performance and in clinical conditions such as spastic cerebral palsy, where altered mechanical tissue properties significantly impact movement.
+
+  My recent work explores how qMRI can reveal key microstructural properties of muscle tissue, including extracellular volume fraction and collagen content. This multi-parametric approach provides complementary insights into the relationship between muscle structure and function.
+
+
+  <summary><b>Articles</b></summary>
+  <ul>
+    <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0021929017301896">Submaximal plantarflexion</a></li>
+    <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1751616116302077">Passive knee extension</a></li>
+    <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1751616123000346">Robustness analysis</a></li>
+  </ul>
+  </details>
+<br>
 
 I am an active contributor to several open-source neuroimaging initiatives ([BrainHack](https://brainhack.org/), [MRathon](https://mrathon.github.io), [Open MR](https://openmrbenelux.github.io/), [MRI Together](https://mritogether.esmrmb.org/), [OHBM OSR](https://ohbm.github.io/osr)), as well as to science communication/publication platforms ([MRM Highlights](https://blog.ismrm.org/category/highlights/), [OHBM Blog](https://www.ohbmbrainmappingblog.com), and [ISMRM MR Pulse](https://blog.ismrm.org/), [MRPub](https://ismrm.github.io/mrpub)).
+
+
