@@ -60,7 +60,7 @@ Multicenter MRI data becomes vulnerable to overfitting when the variability caus
 Vendor-neutral pulse sequence development is an emerging open-source approach that offers an alternative to relying on proprietary vendor-native sequences and acquisition controllers. I am interested in applying this approach to standardize acquisitions for various MRI applications (primarily qMRI) with the goal of minimizing non-biological variability at the signal source across scanners from different vendors (e.g., `Siemens`, `GE`, `Philips`, and `Canon`).
 
 <center>
-  <img src="https://qmrlab.org/VENUS/_images/banner.jpg" alt="EMFT" style="width: 50%; height: auto;">
+  <img src="https://qmrlab.org/VENUS/_images/banner.jpg" alt="EMFT" style="width: 80%; height: auto;">
 </center>
 
 I have experience developing vendor-neutral sequences using both [RTHawk](https://vista.ai/products/research-rthawk/) (`JavaScript`, `C++`) and [Pulseq](https://pulseq.github.io) (`MATLAB`, `Python`) platforms.
@@ -119,7 +119,7 @@ In addition to this variability, degeneracies in parameter estimation must be we
 </details>
 
   <center>
-    <img src="https://www.researchgate.net/profile/Agah-Karakuzu/publication/345922515/figure/fig1/AS:962163275468800@1606409009008/qMRLab-is-an-open-source-software-for-quantitative-MRI-analysis-It-provides-a-myriad-of.ppm" alt="EMFT" style="width: 50%; height: auto;">
+    <img src="https://www.researchgate.net/profile/Agah-Karakuzu/publication/345922515/figure/fig1/AS:962163275468800@1606409009008/qMRLab-is-an-open-source-software-for-quantitative-MRI-analysis-It-provides-a-myriad-of.ppm" alt="EMFT" style="width: 80%; height: auto;">
   </center>
 <br>
 
@@ -225,14 +225,14 @@ I hold a second PhD in Biomedical Engineering from [Bogazici University](https:/
 <details>
   <summary><b>Research from my second PhD</b></summary>
   
-  Epimuscular myofascial force transmission ([EMFT](https://pubmed.ncbi.nlm.nih.gov/20577061/)) is a novel theory on how muscles transmit force through inter- and extramuscular structures, in addition to the myotendinous structures.
+  Epimuscular myofascial force transmission ([EMFT](https://pubmed.ncbi.nlm.nih.gov/20577061/)) is a novel theory on how muscles transmit force through inter- and extramuscular medium, in addition to the myotendinous structures.
 
   In-vivo studies on this theory is challenging due to the lack of non-invasive methods that can encode mechanical information at different joint angles or during muscle contraction. 
 
   To address this challenge, I developed a novel MRI method that combines diffusion tensor imaging (DTI) tractography with non-rigid registration of high-resolution anatomical images to quantify strain in the muscle fiber direction. One of the key findings from this work is heteregeneous strain distribution in the muscle fiber direction, which is a hallmark of EMFT effects, as well as an important determinant of muscle range of active force production.
 
 <center>
-  <img src="https://ars.els-cdn.com/content/image/1-s2.0-S1751616123000346-ga1_lrg.jpg" alt="EMFT" style="width: 50%; height: auto;">
+  <img src="https://ars.els-cdn.com/content/image/1-s2.0-S1751616123000346-ga1_lrg.jpg" alt="EMFT" style="width: 80%; height: auto;">
 </center>
   
   Such comprehensive understanding of in-vivo mechanical interactions is crucial for the development of novel rehabilitation protocols and assistive devices. This knowledge has important implications both in sports science for optimizing athletic performance and in clinical conditions such as spastic cerebral palsy, where altered mechanical tissue properties significantly impact movement.
