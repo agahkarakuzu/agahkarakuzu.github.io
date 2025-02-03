@@ -12,9 +12,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: x-twitter
-  icon_pack: fab
-  link: https://x.com/agahkarakuzu
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=tVvzWVMAAAAJ&hl=en&oi=ao
